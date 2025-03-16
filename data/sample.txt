@@ -1,0 +1,3 @@
+This is a sample document for testing the RAG system.
+Hasnain is a software developer who specializes in AI and machine learning.
+He is passionate about creating intelligent systems and chatbots. 
